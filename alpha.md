@@ -1,3 +1,3 @@
 ### Alpha
 
-This is Alpha. Go [home](./).
+This is Alpha! Go [home](./).
